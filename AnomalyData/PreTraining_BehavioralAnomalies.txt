@@ -1,0 +1,172 @@
+1 Check wire in long axis is executed unexpectedly            R_21_1F ['RESOURCE', 'R_21_1F', 2, 0.03565853658536586, 30, 'Check wire in long axis is executed unexpectedly']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Check wire in long axis is executed unexpectedly']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Check wire in long axis is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+2 Anesthetize is executed unexpectedly                          R_31_1G ['RESOURCE', 'R_31_1G', 2, 0.043, 25, 'Anesthetize is executed unexpectedly']、R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Anesthetize is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+3 INVISIBLE No Return is replaced with Drop probe             R_21_1F ['RESOURCE', 'R_21_1F', 2, 0.03565853658536586, 30, 'INVISIBLE No Return is replaced with Drop probe']
+--------------------------------------------------------------------------------------------------------
+4 Guidewire install is unexpectedly followed by Check wire in short axis        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Guidewire install is unexpectedly followed by Check wire in short axis']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Guidewire install is unexpectedly followed by Check wire in short axis']
+--------------------------------------------------------------------------------------------------------
+5 Remove trocar is unexpectedly followed by Check wire in short axis        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Remove trocar is unexpectedly followed by Check wire in short axis']、R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Remove trocar is unexpectedly followed by Check wire in short axis']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Remove trocar is unexpectedly followed by Check wire in short axis']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Remove trocar is unexpectedly followed by Check wire in short axis']、R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'Remove trocar is unexpectedly followed by Check wire in short axis']
+--------------------------------------------------------------------------------------------------------
+6 Get in sterile clothes is unexpectedly followed by Prepare implements        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Get in sterile clothes is unexpectedly followed by Prepare implements']、R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Get in sterile clothes is unexpectedly followed by Prepare implements']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Get in sterile clothes is unexpectedly followed by Prepare implements']、R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'Get in sterile clothes is unexpectedly followed by Prepare implements']、R_14_1D ['RESOURCE', 'R_14_1D', 1, 0.035475, 11, 'Get in sterile clothes is unexpectedly followed by Prepare implements']
+--------------------------------------------------------------------------------------------------------
+7 Position patient is replaced with Anatomic identification        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Position patient is replaced with Anatomic identification']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Position patient is replaced with Anatomic identification']、R_14_1D ['RESOURCE', 'R_14_1D', 1, 0.035475, 11, 'Position patient is replaced with Anatomic identification']、R_47_2C ['RESOURCE', 'R_47_2C', 1, 0.03844705882352941, 6, 'Position patient is replaced with Anatomic identification']
+--------------------------------------------------------------------------------------------------------
+8 Prepare implements is unexpectedly followed by Get in sterile clothes        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Prepare implements is unexpectedly followed by Get in sterile clothes']
+--------------------------------------------------------------------------------------------------------
+9 Ultrasound configuration is executed unexpectedly            R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Ultrasound configuration is executed unexpectedly']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Ultrasound configuration is executed unexpectedly']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Ultrasound configuration is executed unexpectedly']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Ultrasound configuration is executed unexpectedly']、R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'Ultrasound configuration is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+10 Gel in probe is executed unexpectedly                        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Gel in probe is executed unexpectedly']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Gel in probe is executed unexpectedly']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Gel in probe is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+11 Ultrasound configuration is replaced with Prepare implements        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Ultrasound configuration is replaced with Prepare implements']、R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Ultrasound configuration is replaced with Prepare implements']、R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Ultrasound configuration is replaced with Prepare implements']、R_47_2C ['RESOURCE', 'R_47_2C', 1, 0.03844705882352941, 6, 'Ultrasound configuration is replaced with Prepare implements']
+--------------------------------------------------------------------------------------------------------
+12 Compression identification is unexpectedly followed by Prepare implements        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Compression identification is unexpectedly followed by Prepare implements']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Compression identification is unexpectedly followed by Prepare implements']
+--------------------------------------------------------------------------------------------------------
+13 Position probe is executed unexpectedly                      R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Position probe is executed unexpectedly']、R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Position probe is executed unexpectedly']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Position probe is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+14 Guidewire install is executed unexpectedly                   R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Guidewire install is executed unexpectedly']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Guidewire install is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+15 Wire in good position is unexpectedly followed by Widen pathway        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Wire in good position is unexpectedly followed by Widen pathway']
+--------------------------------------------------------------------------------------------------------
+16 Advance catheter is executed unexpectedly                    R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Advance catheter is executed unexpectedly']、R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Advance catheter is executed unexpectedly']、R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Advance catheter is executed unexpectedly']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Advance catheter is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+17 Check wire in short axis is executed unexpectedly           R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Check wire in short axis is executed unexpectedly']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Check wire in short axis is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+18 INVISIBLE No good position is replaced with Check wire in short axis        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'INVISIBLE No good position is replaced with Check wire in short axis']
+--------------------------------------------------------------------------------------------------------
+19 INVISIBLE No good position is replaced with Check wire in long axis        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'INVISIBLE No good position is replaced with Check wire in long axis']
+--------------------------------------------------------------------------------------------------------
+20 Remove guidewire is executed unexpectedly                    R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Remove guidewire is executed unexpectedly']、R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Remove guidewire is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+21 Wire in good position is replaced with Check wire in short axis        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Wire in good position is replaced with Check wire in short axis']
+--------------------------------------------------------------------------------------------------------
+22 Wire in good position is replaced with Check wire in long axis        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Wire in good position is replaced with Check wire in long axis']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Wire in good position is replaced with Check wire in long axis']
+--------------------------------------------------------------------------------------------------------
+23 Widen pathway is replaced with Check wire in long axis        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Widen pathway is replaced with Check wire in long axis']
+--------------------------------------------------------------------------------------------------------
+24 Advance catheter is unexpectedly followed by Check wire in short axis        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Advance catheter is unexpectedly followed by Check wire in short axis']
+--------------------------------------------------------------------------------------------------------
+25 Check flow and reflow is not followed by Check catheter position        R_21_1F ['RESOURCE', 'R_21_1F', 1, 0.035475, 30, 'Check flow and reflow is not followed by Check catheter position']
+--------------------------------------------------------------------------------------------------------
+26 Compression identification is executed unexpectedly          R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Compression identification is executed unexpectedly']、R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Compression identification is executed unexpectedly']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Compression identification is executed unexpectedly']、R_47_2C ['RESOURCE', 'R_47_2C', 1, 0.03844705882352941, 6, 'Compression identification is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+27 Check wire in long axis is not followed by Wire in good position        R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Check wire in long axis is not followed by Wire in good position']、R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Check wire in long axis is not followed by Wire in good position']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Check wire in long axis is not followed by Wire in good position']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Check wire in long axis is not followed by Wire in good position']、R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'Check wire in long axis is not followed by Wire in good position']
+--------------------------------------------------------------------------------------------------------
+28 Prepare implements is unexpectedly followed by Ultrasound configuration        R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Prepare implements is unexpectedly followed by Ultrasound configuration']
+--------------------------------------------------------------------------------------------------------
+29 Position patient is executed unexpectedly                    R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Position patient is executed unexpectedly']、R_14_1D ['RESOURCE', 'R_14_1D', 1, 0.035475, 11, 'Position patient is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+30 Clean puncture area is unexpectedly followed by Prepare implements        R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Clean puncture area is unexpectedly followed by Prepare implements']、R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Clean puncture area is unexpectedly followed by Prepare implements']
+--------------------------------------------------------------------------------------------------------
+31 Cover probe is unexpectedly followed by Put sterile gel        R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Cover probe is unexpectedly followed by Put sterile gel']
+--------------------------------------------------------------------------------------------------------
+32 Prepare implements is executed unexpectedly                  R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Prepare implements is executed unexpectedly']、R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Prepare implements is executed unexpectedly']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Prepare implements is executed unexpectedly']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Prepare implements is executed unexpectedly']、R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'Prepare implements is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+33 Position probe is not followed by Position patient          R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Position probe is not followed by Position patient']、R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Position probe is not followed by Position patient']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Position probe is not followed by Position patient']、R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'Position probe is not followed by Position patient']
+--------------------------------------------------------------------------------------------------------
+34 Anesthetize is replaced with Ultrasound configuration        R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Anesthetize is replaced with Ultrasound configuration']、R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Anesthetize is replaced with Ultrasound configuration']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Anesthetize is replaced with Ultrasound configuration']
+--------------------------------------------------------------------------------------------------------
+35 Anesthetize is replaced with Anatomic identification         R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Anesthetize is replaced with Anatomic identification']
+--------------------------------------------------------------------------------------------------------
+36 Doppler identification is executed unexpectedly              R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Doppler identification is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+37 Remove trocar is unexpectedly followed by Widen pathway        R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Remove trocar is unexpectedly followed by Widen pathway']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Remove trocar is unexpectedly followed by Widen pathway']
+--------------------------------------------------------------------------------------------------------
+38 Check flow and reflow is executed unexpectedly              R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Check flow and reflow is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+39 Anatomic identification is executed unexpectedly             R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Anatomic identification is executed unexpectedly']、R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Anatomic identification is executed unexpectedly']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Anatomic identification is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+40 Check wire in long axis is replaced with Anatomic identification        R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Check wire in long axis is replaced with Anatomic identification']
+--------------------------------------------------------------------------------------------------------
+41 Advance catheter is not followed by Remove guidewire        R_31_1G ['RESOURCE', 'R_31_1G', 1, 0.035475, 25, 'Advance catheter is not followed by Remove guidewire']
+--------------------------------------------------------------------------------------------------------
+42 Prepare implements is replaced with Get in sterile clothes        R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Prepare implements is replaced with Get in sterile clothes']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Prepare implements is replaced with Get in sterile clothes']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Prepare implements is replaced with Get in sterile clothes']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Prepare implements is replaced with Get in sterile clothes']、R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'Prepare implements is replaced with Get in sterile clothes']、R_47_2C ['RESOURCE', 'R_47_2C', 1, 0.03844705882352941, 6, 'Prepare implements is replaced with Get in sterile clothes']
+--------------------------------------------------------------------------------------------------------
+43 Remove trocar is replaced with Check wire in short axis        R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Remove trocar is replaced with Check wire in short axis']、R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Remove trocar is replaced with Check wire in short axis']
+--------------------------------------------------------------------------------------------------------
+44 The start activity Ultrasound configuration was executed in an incorrect manner        R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'The start activity Ultrasound configuration was executed in an incorrect manner']
+--------------------------------------------------------------------------------------------------------
+45 Get in sterile clothes is executed unexpectedly             R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Get in sterile clothes is executed unexpectedly']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Get in sterile clothes is executed unexpectedly']、R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'Get in sterile clothes is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+46 Clean puncture area is replaced with Prepare implements        R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Clean puncture area is replaced with Prepare implements']
+--------------------------------------------------------------------------------------------------------
+47 Anatomic identification is unexpectedly followed by Compression identification        R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Anatomic identification is unexpectedly followed by Compression identification']、R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'Anatomic identification is unexpectedly followed by Compression identification']
+--------------------------------------------------------------------------------------------------------
+48 Puncture is executed unexpectedly                             R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Puncture is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+49 Puncture is not followed by Blood return                    R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Puncture is not followed by Blood return']
+--------------------------------------------------------------------------------------------------------
+50 Guidewire install is not followed by Remove trocar          R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Guidewire install is not followed by Remove trocar']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Guidewire install is not followed by Remove trocar']
+--------------------------------------------------------------------------------------------------------
+51 Check wire in long axis is reworked                         R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Check wire in long axis is reworked']
+--------------------------------------------------------------------------------------------------------
+52 Wire in good position is unexpectedly followed by Check wire in long axis        R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Wire in good position is unexpectedly followed by Check wire in long axis']
+--------------------------------------------------------------------------------------------------------
+53 Remove trocar is executed unexpectedly                       R_45_2A ['RESOURCE', 'R_45_2A', 1, 0.035475, 20, 'Remove trocar is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+54 Drap puncture area is unexpectedly followed by Prepare implements        R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Drap puncture area is unexpectedly followed by Prepare implements']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Drap puncture area is unexpectedly followed by Prepare implements']、R_14_1D ['RESOURCE', 'R_14_1D', 1, 0.035475, 11, 'Drap puncture area is unexpectedly followed by Prepare implements']
+--------------------------------------------------------------------------------------------------------
+55 Cover probe is executed unexpectedly                         R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Cover probe is executed unexpectedly']、R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Cover probe is executed unexpectedly']、R_14_1D ['RESOURCE', 'R_14_1D', 1, 0.035475, 11, 'Cover probe is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+56 Gel in probe is not followed by Cover probe                R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Gel in probe is not followed by Cover probe']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Gel in probe is not followed by Cover probe']、R_14_1D ['RESOURCE', 'R_14_1D', 1, 0.035475, 11, 'Gel in probe is not followed by Cover probe']
+--------------------------------------------------------------------------------------------------------
+57 Ultrasound configuration is not followed by Gel in probe        R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Ultrasound configuration is not followed by Gel in probe']
+--------------------------------------------------------------------------------------------------------
+58 Remove syringe is unexpectedly followed by Check wire in short axis        R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Remove syringe is unexpectedly followed by Check wire in short axis']
+--------------------------------------------------------------------------------------------------------
+59 Guidewire install is unexpectedly followed by Blood return        R_32_1H ['RESOURCE', 'R_32_1H', 1, 0.035475, 17, 'Guidewire install is unexpectedly followed by Blood return']
+--------------------------------------------------------------------------------------------------------
+60 Ultrasound configuration is replaced with Cover probe        R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Ultrasound configuration is replaced with Cover probe']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Ultrasound configuration is replaced with Cover probe']
+--------------------------------------------------------------------------------------------------------
+61 Anesthetize is replaced with Compression identification        R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Anesthetize is replaced with Compression identification']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Anesthetize is replaced with Compression identification']
+--------------------------------------------------------------------------------------------------------
+62 Wire in good position is replaced with Remove trocar        R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Wire in good position is replaced with Remove trocar']、R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Wire in good position is replaced with Remove trocar']
+--------------------------------------------------------------------------------------------------------
+63 Put sterile gel is unexpectedly followed by Prepare implements        R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Put sterile gel is unexpectedly followed by Prepare implements']
+--------------------------------------------------------------------------------------------------------
+64 Check wire in short axis is replaced with Advance catheter        R_48_2D ['RESOURCE', 'R_48_2D', 1, 0.035475, 15, 'Check wire in short axis is replaced with Advance catheter']
+--------------------------------------------------------------------------------------------------------
+65 Put sterile gel is not followed by Position probe          R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Put sterile gel is not followed by Position probe']、R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Put sterile gel is not followed by Position probe']
+--------------------------------------------------------------------------------------------------------
+66 Prepare implements is unexpectedly followed by Position patient        R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Prepare implements is unexpectedly followed by Position patient']
+--------------------------------------------------------------------------------------------------------
+67 Hand washing is unexpectedly followed by Prepare implements        R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Hand washing is unexpectedly followed by Prepare implements']
+--------------------------------------------------------------------------------------------------------
+68 Put sterile gel is executed unexpectedly                     R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Put sterile gel is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+69 Remove trocar is replaced with Blood return                 R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Remove trocar is replaced with Blood return']
+--------------------------------------------------------------------------------------------------------
+70 Check wire in long axis is replaced with Blood return        R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Check wire in long axis is replaced with Blood return']
+--------------------------------------------------------------------------------------------------------
+71 Remove guidewire is not followed by Check flow and reflow        R_33_1L ['RESOURCE', 'R_33_1L', 1, 0.035475, 18, 'Remove guidewire is not followed by Check flow and reflow']
+--------------------------------------------------------------------------------------------------------
+72 The start activity Hand washing was executed in an incorrect manner        R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'The start activity Hand washing was executed in an incorrect manner']
+--------------------------------------------------------------------------------------------------------
+73 Drap puncture area is not followed by Ultrasound configuration        R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Drap puncture area is not followed by Ultrasound configuration']、R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'Drap puncture area is not followed by Ultrasound configuration']
+--------------------------------------------------------------------------------------------------------
+74 Anatomic identification is unexpectedly followed by Ultrasound configuration        R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Anatomic identification is unexpectedly followed by Ultrasound configuration']
+--------------------------------------------------------------------------------------------------------
+75 Anesthetize is unexpectedly followed by Anatomic identification        R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Anesthetize is unexpectedly followed by Anatomic identification']
+--------------------------------------------------------------------------------------------------------
+76 Puncture is unexpectedly followed by Ultrasound configuration        R_13_1C ['RESOURCE', 'R_13_1C', 1, 0.035475, 17, 'Puncture is unexpectedly followed by Ultrasound configuration']
+--------------------------------------------------------------------------------------------------------
+77 The start activity Get in sterile clothes was executed in an incorrect manner        R_14_1D ['RESOURCE', 'R_14_1D', 1, 0.035475, 11, 'The start activity Get in sterile clothes was executed in an incorrect manner']
+--------------------------------------------------------------------------------------------------------
+78 Hand washing is executed unexpectedly                        R_14_1D ['RESOURCE', 'R_14_1D', 1, 0.035475, 11, 'Hand washing is executed unexpectedly']
+--------------------------------------------------------------------------------------------------------
+79 Position patient is replaced with Ultrasound configuration        R_14_1D ['RESOURCE', 'R_14_1D', 1, 0.035475, 11, 'Position patient is replaced with Ultrasound configuration']
+--------------------------------------------------------------------------------------------------------
+80 Anesthetize is unexpectedly followed by Position probe        R_14_1D ['RESOURCE', 'R_14_1D', 1, 0.035475, 11, 'Anesthetize is unexpectedly followed by Position probe']
+--------------------------------------------------------------------------------------------------------
+81 Remove trocar is not followed by Check wire in short axis        R_14_1D ['RESOURCE', 'R_14_1D', 1, 0.035475, 11, 'Remove trocar is not followed by Check wire in short axis']、R_47_2C ['RESOURCE', 'R_47_2C', 1, 0.03844705882352941, 6, 'Remove trocar is not followed by Check wire in short axis']
+--------------------------------------------------------------------------------------------------------
+82 The start activity Position patient was executed in an incorrect manner        R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'The start activity Position patient was executed in an incorrect manner']
+--------------------------------------------------------------------------------------------------------
+83 Prepare implements is replaced with Gel in probe            R_46_2B ['RESOURCE', 'R_46_2B', 1, 0.035475, 13, 'Prepare implements is replaced with Gel in probe']
+--------------------------------------------------------------------------------------------------------
+84 Cover probe is unexpectedly followed by Ultrasound configuration        R_47_2C ['RESOURCE', 'R_47_2C', 1, 0.03844705882352941, 6, 'Cover probe is unexpectedly followed by Ultrasound configuration']
+--------------------------------------------------------------------------------------------------------
+85 Puncture is reworked                                          R_45_2A ['RESOURCE', 'R_45_2A', 0, 0.035475, 20, 'Puncture is reworked']
+--------------------------------------------------------------------------------------------------------
+86 Anesthetize is replaced with Puncture                        R_45_2A ['RESOURCE', 'R_45_2A', 0, 0.035475, 20, 'Anesthetize is replaced with Puncture']
+--------------------------------------------------------------------------------------------------------

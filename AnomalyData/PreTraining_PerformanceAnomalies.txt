@@ -1,0 +1,313 @@
+1
+Get in sterile clothes was redundantly executed                RESOURCE            R_21_1F ['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 2, 1208, 2]、R_47_2C ['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 2, 975, 8]、R_14_1D ['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 2, 879, 1]、R_45_2A ['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 2, 803, 6]、R_32_1H ['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 2, 766, 4]、R_13_1C ['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 2, 746, 0]、R_48_2D ['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_48_2D', 1, 368, 0.972222, 2, 368, 9]、R_46_2B ['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 2, 267, 7]
+['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_21_1F', 1, 1208]
+['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_47_2C', 1, 975]
+['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_14_1D', 1, 879]
+['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_45_2A', 1, 803]
+['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_32_1H', 1, 766]
+['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_13_1C', 1, 746]
+['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_48_2D', 1, 368]
+['The activity was redundantly executed', 'Get in sterile clothes', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+2
+Gel in probe was redundantly executed                          RESOURCE            R_21_1F ['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 1, 1208, 2]、R_32_1H ['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]、R_13_1C ['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 1, 746, 0]、R_33_1L ['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]、R_48_2D ['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_48_2D', 1, 368, 0.972222, 1, 368, 9]、R_46_2B ['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 1, 267, 7]
+['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_21_1F', 1, 1208]
+['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_32_1H', 1, 766]
+['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_13_1C', 1, 746]
+['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_33_1L', 1, 700]
+['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_48_2D', 1, 368]
+['The activity was redundantly executed', 'Gel in probe', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+3
+Compression identification was redundantly executed            RESOURCE            R_31_1G ['The activity was redundantly executed', 'Compression identification', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]、R_47_2C ['The activity was redundantly executed', 'Compression identification', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]、R_13_1C ['The activity was redundantly executed', 'Compression identification', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 1, 746, 0]、R_48_2D ['The activity was redundantly executed', 'Compression identification', 'RESOURCE', 'R_48_2D', 1, 368, 0.972222, 1, 368, 9]、R_46_2B ['The activity was redundantly executed', 'Compression identification', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 1, 267, 7]
+['The activity was redundantly executed', 'Compression identification', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The activity was redundantly executed', 'Compression identification', 'RESOURCE', 'R_47_2C', 1, 975]
+['The activity was redundantly executed', 'Compression identification', 'RESOURCE', 'R_13_1C', 1, 746]
+['The activity was redundantly executed', 'Compression identification', 'RESOURCE', 'R_48_2D', 1, 368]
+['The activity was redundantly executed', 'Compression identification', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+4
+Check wire in short axis was redundantly executed              RESOURCE            R_31_1G ['The activity was redundantly executed', 'Check wire in short axis', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]、R_45_2A ['The activity was redundantly executed', 'Check wire in short axis', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 1, 803, 6]、R_33_1L ['The activity was redundantly executed', 'Check wire in short axis', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]、R_48_2D ['The activity was redundantly executed', 'Check wire in short axis', 'RESOURCE', 'R_48_2D', 1, 368, 0.972222, 1, 368, 9]、R_46_2B ['The activity was redundantly executed', 'Check wire in short axis', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 1, 267, 7]
+['The activity was redundantly executed', 'Check wire in short axis', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The activity was redundantly executed', 'Check wire in short axis', 'RESOURCE', 'R_45_2A', 1, 803]
+['The activity was redundantly executed', 'Check wire in short axis', 'RESOURCE', 'R_33_1L', 1, 700]
+['The activity was redundantly executed', 'Check wire in short axis', 'RESOURCE', 'R_48_2D', 1, 368]
+['The activity was redundantly executed', 'Check wire in short axis', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+5
+Anatomic identification was redundantly executed               RESOURCE            R_21_1F ['The activity was redundantly executed', 'Anatomic identification', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 1, 1208, 2]、R_14_1D ['The activity was redundantly executed', 'Anatomic identification', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_45_2A ['The activity was redundantly executed', 'Anatomic identification', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 2, 803, 6]、R_32_1H ['The activity was redundantly executed', 'Anatomic identification', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]、R_33_1L ['The activity was redundantly executed', 'Anatomic identification', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]
+['The activity was redundantly executed', 'Anatomic identification', 'RESOURCE', 'R_21_1F', 1, 1208]
+['The activity was redundantly executed', 'Anatomic identification', 'RESOURCE', 'R_14_1D', 1, 879]
+['The activity was redundantly executed', 'Anatomic identification', 'RESOURCE', 'R_45_2A', 1, 803]
+['The activity was redundantly executed', 'Anatomic identification', 'RESOURCE', 'R_32_1H', 1, 766]
+['The activity was redundantly executed', 'Anatomic identification', 'RESOURCE', 'R_33_1L', 1, 700]
+------------------------------------------------------------------------------------------
+6
+Position patient was redundantly executed                      RESOURCE            R_31_1G ['The activity was redundantly executed', 'Position patient', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]、R_14_1D ['The activity was redundantly executed', 'Position patient', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_33_1L ['The activity was redundantly executed', 'Position patient', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]、R_46_2B ['The activity was redundantly executed', 'Position patient', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 1, 267, 7]
+['The activity was redundantly executed', 'Position patient', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The activity was redundantly executed', 'Position patient', 'RESOURCE', 'R_14_1D', 1, 879]
+['The activity was redundantly executed', 'Position patient', 'RESOURCE', 'R_33_1L', 1, 700]
+['The activity was redundantly executed', 'Position patient', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+7
+Check wire in long axis was redundantly executed               RESOURCE            R_32_1H ['The activity was redundantly executed', 'Check wire in long axis', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 2, 766, 4]、R_13_1C ['The activity was redundantly executed', 'Check wire in long axis', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 2, 746, 0]、R_33_1L ['The activity was redundantly executed', 'Check wire in long axis', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]、R_48_2D ['The activity was redundantly executed', 'Check wire in long axis', 'RESOURCE', 'R_48_2D', 1, 368, 0.972222, 1, 368, 9]
+['The activity was redundantly executed', 'Check wire in long axis', 'RESOURCE', 'R_32_1H', 1, 766]
+['The activity was redundantly executed', 'Check wire in long axis', 'RESOURCE', 'R_13_1C', 1, 746]
+['The activity was redundantly executed', 'Check wire in long axis', 'RESOURCE', 'R_33_1L', 1, 700]
+['The activity was redundantly executed', 'Check wire in long axis', 'RESOURCE', 'R_48_2D', 1, 368]
+------------------------------------------------------------------------------------------
+8
+Ultrasound configuration was redundantly executed              RESOURCE            R_47_2C ['The activity was redundantly executed', 'Ultrasound configuration', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]、R_45_2A ['The activity was redundantly executed', 'Ultrasound configuration', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 1, 803, 6]、R_33_1L ['The activity was redundantly executed', 'Ultrasound configuration', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]
+['The activity was redundantly executed', 'Ultrasound configuration', 'RESOURCE', 'R_47_2C', 1, 975]
+['The activity was redundantly executed', 'Ultrasound configuration', 'RESOURCE', 'R_45_2A', 1, 803]
+['The activity was redundantly executed', 'Ultrasound configuration', 'RESOURCE', 'R_33_1L', 1, 700]
+------------------------------------------------------------------------------------------
+9
+Widen pathway was redundantly executed                         RESOURCE            R_31_1G ['The activity was redundantly executed', 'Widen pathway', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 2, 1231, 3]、R_21_1F ['The activity was redundantly executed', 'Widen pathway', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 1, 1208, 2]、R_48_2D ['The activity was redundantly executed', 'Widen pathway', 'RESOURCE', 'R_48_2D', 1, 368, 0.972222, 2, 368, 9]
+['The activity was redundantly executed', 'Widen pathway', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The activity was redundantly executed', 'Widen pathway', 'RESOURCE', 'R_21_1F', 1, 1208]
+['The activity was redundantly executed', 'Widen pathway', 'RESOURCE', 'R_48_2D', 1, 368]
+------------------------------------------------------------------------------------------
+10
+Advance catheter was redundantly executed                      RESOURCE            R_31_1G ['The activity was redundantly executed', 'Advance catheter', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 2, 1231, 3]、R_45_2A ['The activity was redundantly executed', 'Advance catheter', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 2, 803, 6]、R_48_2D ['The activity was redundantly executed', 'Advance catheter', 'RESOURCE', 'R_48_2D', 1, 368, 0.972222, 2, 368, 9]
+['The activity was redundantly executed', 'Advance catheter', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The activity was redundantly executed', 'Advance catheter', 'RESOURCE', 'R_45_2A', 1, 803]
+['The activity was redundantly executed', 'Advance catheter', 'RESOURCE', 'R_48_2D', 1, 368]
+------------------------------------------------------------------------------------------
+11
+Prepare implements was redundantly executed                    RESOURCE            R_47_2C ['The activity was redundantly executed', 'Prepare implements', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]、R_13_1C ['The activity was redundantly executed', 'Prepare implements', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 1, 746, 0]
+['The activity was redundantly executed', 'Prepare implements', 'RESOURCE', 'R_47_2C', 1, 975]
+['The activity was redundantly executed', 'Prepare implements', 'RESOURCE', 'R_13_1C', 1, 746]
+------------------------------------------------------------------------------------------
+12
+Doppler identification was redundantly executed                RESOURCE            R_31_1G ['The activity was redundantly executed', 'Doppler identification', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]、R_47_2C ['The activity was redundantly executed', 'Doppler identification', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]
+['The activity was redundantly executed', 'Doppler identification', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The activity was redundantly executed', 'Doppler identification', 'RESOURCE', 'R_47_2C', 1, 975]
+------------------------------------------------------------------------------------------
+13
+Hand washing was redundantly executed                          RESOURCE            R_14_1D ['The activity was redundantly executed', 'Hand washing', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 2, 879, 1]、R_13_1C ['The activity was redundantly executed', 'Hand washing', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 2, 746, 0]
+['The activity was redundantly executed', 'Hand washing', 'RESOURCE', 'R_14_1D', 1, 879]
+['The activity was redundantly executed', 'Hand washing', 'RESOURCE', 'R_13_1C', 1, 746]
+------------------------------------------------------------------------------------------
+14
+Cover probe was redundantly executed                           RESOURCE            R_14_1D ['The activity was redundantly executed', 'Cover probe', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_32_1H ['The activity was redundantly executed', 'Cover probe', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]
+['The activity was redundantly executed', 'Cover probe', 'RESOURCE', 'R_14_1D', 1, 879]
+['The activity was redundantly executed', 'Cover probe', 'RESOURCE', 'R_32_1H', 1, 766]
+------------------------------------------------------------------------------------------
+15
+Remove guidewire was redundantly executed                      RESOURCE            R_31_1G ['The activity was redundantly executed', 'Remove guidewire', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]、R_21_1F ['The activity was redundantly executed', 'Remove guidewire', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 2, 1208, 2]
+['The activity was redundantly executed', 'Remove guidewire', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The activity was redundantly executed', 'Remove guidewire', 'RESOURCE', 'R_21_1F', 1, 1208]
+------------------------------------------------------------------------------------------
+16
+Anesthetize was redundantly executed                           RESOURCE            R_33_1L ['The activity was redundantly executed', 'Anesthetize', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]
+['The activity was redundantly executed', 'Anesthetize', 'RESOURCE', 'R_33_1L', 1, 700]
+------------------------------------------------------------------------------------------
+17
+Remove trocar was redundantly executed                         RESOURCE            R_45_2A ['The activity was redundantly executed', 'Remove trocar', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 1, 803, 6]
+['The activity was redundantly executed', 'Remove trocar', 'RESOURCE', 'R_45_2A', 1, 803]
+------------------------------------------------------------------------------------------
+18
+Put sterile gel was redundantly executed                       RESOURCE            R_31_1G ['The activity was redundantly executed', 'Put sterile gel', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 2, 1231, 3]
+['The activity was redundantly executed', 'Put sterile gel', 'RESOURCE', 'R_31_1G', 1, 1231]
+------------------------------------------------------------------------------------------
+19
+Check flow and reflow was redundantly executed                 RESOURCE            R_31_1G ['The activity was redundantly executed', 'Check flow and reflow', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]
+['The activity was redundantly executed', 'Check flow and reflow', 'RESOURCE', 'R_31_1G', 1, 1231]
+------------------------------------------------------------------------------------------
+20
+Guidewire install was redundantly executed                     RESOURCE            R_21_1F ['The activity was redundantly executed', 'Guidewire install', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 3, 1208, 2]
+['The activity was redundantly executed', 'Guidewire install', 'RESOURCE', 'R_21_1F', 1, 1208]
+{'Cover probe has exceeded the time limit'': 2, 'Puncture has exceeded the time limit'': 3, 'Guidewire install has exceeded the time limit'': 4, 'Remove trocar has exceeded the time limit'': 5, 'Widen pathway has exceeded the time limit'': 2, 'Advance catheter has exceeded the time limit'': 3, 'Remove guidewire has exceeded the time limit'': 2, 'Check flow and reflow has exceeded the time limit'': 1, 'Clean puncture area has exceeded the time limit'': 3, 'Position probe has exceeded the time limit'': 0, 'Anesthetize has exceeded the time limit'': 2, 'Check wire in long axis has exceeded the time limit'': 1, 'Drap puncture area has exceeded the time limit'': 2, 'Put sterile gel has exceeded the time limit'': 2, 'Compression identification has exceeded the time limit'': 1, 'Remove syringe has exceeded the time limit'': 1, 'Get in sterile clothes has exceeded the time limit'': 1, 'Hand washing has exceeded the time limit'': 3, 'Gel in probe has exceeded the time limit'': 0}
+------------------------------------------------------------------------------------------
+21
+Remove trocar has exceeded the time limit'                       RESOURCE            R_21_1F ['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 1, 1208, 2]、R_47_2C ['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]、R_14_1D ['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_13_1C ['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 1, 746, 0]、R_33_1L ['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]、R_46_2B ['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 1, 267, 7]
+['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_21_1F', 1, 1208]
+['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_47_2C', 1, 975]
+['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_14_1D', 1, 879]
+['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_13_1C', 1, 746]
+['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_33_1L', 1, 700]
+['The event execution has exceeded the time limit', 'Remove trocar', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+22
+Guidewire install has exceeded the time limit'                   RESOURCE            R_31_1G ['The event execution has exceeded the time limit', 'Guidewire install', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 2, 1231, 3]、R_47_2C ['The event execution has exceeded the time limit', 'Guidewire install', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]、R_14_1D ['The event execution has exceeded the time limit', 'Guidewire install', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_45_2A ['The event execution has exceeded the time limit', 'Guidewire install', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 1, 803, 6]、R_48_2D ['The event execution has exceeded the time limit', 'Guidewire install', 'RESOURCE', 'R_48_2D', 1, 368, 0.972222, 1, 368, 9]
+['The event execution has exceeded the time limit', 'Guidewire install', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The event execution has exceeded the time limit', 'Guidewire install', 'RESOURCE', 'R_47_2C', 1, 975]
+['The event execution has exceeded the time limit', 'Guidewire install', 'RESOURCE', 'R_14_1D', 1, 879]
+['The event execution has exceeded the time limit', 'Guidewire install', 'RESOURCE', 'R_45_2A', 1, 803]
+['The event execution has exceeded the time limit', 'Guidewire install', 'RESOURCE', 'R_48_2D', 1, 368]
+------------------------------------------------------------------------------------------
+23
+Puncture has exceeded the time limit'                            RESOURCE            R_21_1F ['The event execution has exceeded the time limit', 'Puncture', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 1, 1208, 2]、R_47_2C ['The event execution has exceeded the time limit', 'Puncture', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]、R_13_1C ['The event execution has exceeded the time limit', 'Puncture', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 1, 746, 0]、R_33_1L ['The event execution has exceeded the time limit', 'Puncture', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]
+['The event execution has exceeded the time limit', 'Puncture', 'RESOURCE', 'R_21_1F', 1, 1208]
+['The event execution has exceeded the time limit', 'Puncture', 'RESOURCE', 'R_47_2C', 1, 975]
+['The event execution has exceeded the time limit', 'Puncture', 'RESOURCE', 'R_13_1C', 1, 746]
+['The event execution has exceeded the time limit', 'Puncture', 'RESOURCE', 'R_33_1L', 1, 700]
+------------------------------------------------------------------------------------------
+24
+Advance catheter has exceeded the time limit'                    RESOURCE            R_47_2C ['The event execution has exceeded the time limit', 'Advance catheter', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]、R_14_1D ['The event execution has exceeded the time limit', 'Advance catheter', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_32_1H ['The event execution has exceeded the time limit', 'Advance catheter', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]、R_13_1C ['The event execution has exceeded the time limit', 'Advance catheter', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 1, 746, 0]
+['The event execution has exceeded the time limit', 'Advance catheter', 'RESOURCE', 'R_47_2C', 1, 975]
+['The event execution has exceeded the time limit', 'Advance catheter', 'RESOURCE', 'R_14_1D', 1, 879]
+['The event execution has exceeded the time limit', 'Advance catheter', 'RESOURCE', 'R_32_1H', 1, 766]
+['The event execution has exceeded the time limit', 'Advance catheter', 'RESOURCE', 'R_13_1C', 1, 746]
+------------------------------------------------------------------------------------------
+25
+Clean puncture area has exceeded the time limit'                 RESOURCE            R_21_1F ['The event execution has exceeded the time limit', 'Clean puncture area', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 1, 1208, 2]、R_13_1C ['The event execution has exceeded the time limit', 'Clean puncture area', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 1, 746, 0]、R_33_1L ['The event execution has exceeded the time limit', 'Clean puncture area', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]、R_46_2B ['The event execution has exceeded the time limit', 'Clean puncture area', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 1, 267, 7]
+['The event execution has exceeded the time limit', 'Clean puncture area', 'RESOURCE', 'R_21_1F', 1, 1208]
+['The event execution has exceeded the time limit', 'Clean puncture area', 'RESOURCE', 'R_13_1C', 1, 746]
+['The event execution has exceeded the time limit', 'Clean puncture area', 'RESOURCE', 'R_33_1L', 1, 700]
+['The event execution has exceeded the time limit', 'Clean puncture area', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+26
+Hand washing has exceeded the time limit'                        RESOURCE            R_31_1G ['The event execution has exceeded the time limit', 'Hand washing', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]、R_21_1F ['The event execution has exceeded the time limit', 'Hand washing', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 1, 1208, 2]、R_45_2A ['The event execution has exceeded the time limit', 'Hand washing', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 1, 803, 6]、R_32_1H ['The event execution has exceeded the time limit', 'Hand washing', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]
+['The event execution has exceeded the time limit', 'Hand washing', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The event execution has exceeded the time limit', 'Hand washing', 'RESOURCE', 'R_21_1F', 1, 1208]
+['The event execution has exceeded the time limit', 'Hand washing', 'RESOURCE', 'R_45_2A', 1, 803]
+['The event execution has exceeded the time limit', 'Hand washing', 'RESOURCE', 'R_32_1H', 1, 766]
+------------------------------------------------------------------------------------------
+27
+Cover probe has exceeded the time limit'                         RESOURCE            R_31_1G ['The event execution has exceeded the time limit', 'Cover probe', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]、R_47_2C ['The event execution has exceeded the time limit', 'Cover probe', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]、R_45_2A ['The event execution has exceeded the time limit', 'Cover probe', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 1, 803, 6]
+['The event execution has exceeded the time limit', 'Cover probe', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The event execution has exceeded the time limit', 'Cover probe', 'RESOURCE', 'R_47_2C', 1, 975]
+['The event execution has exceeded the time limit', 'Cover probe', 'RESOURCE', 'R_45_2A', 1, 803]
+------------------------------------------------------------------------------------------
+28
+Widen pathway has exceeded the time limit'                       RESOURCE            R_47_2C ['The event execution has exceeded the time limit', 'Widen pathway', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]、R_45_2A ['The event execution has exceeded the time limit', 'Widen pathway', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 1, 803, 6]、R_13_1C ['The event execution has exceeded the time limit', 'Widen pathway', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 1, 746, 0]
+['The event execution has exceeded the time limit', 'Widen pathway', 'RESOURCE', 'R_47_2C', 1, 975]
+['The event execution has exceeded the time limit', 'Widen pathway', 'RESOURCE', 'R_45_2A', 1, 803]
+['The event execution has exceeded the time limit', 'Widen pathway', 'RESOURCE', 'R_13_1C', 1, 746]
+------------------------------------------------------------------------------------------
+29
+Remove guidewire has exceeded the time limit'                    RESOURCE            R_47_2C ['The event execution has exceeded the time limit', 'Remove guidewire', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]、R_32_1H ['The event execution has exceeded the time limit', 'Remove guidewire', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]、R_33_1L ['The event execution has exceeded the time limit', 'Remove guidewire', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]
+['The event execution has exceeded the time limit', 'Remove guidewire', 'RESOURCE', 'R_47_2C', 1, 975]
+['The event execution has exceeded the time limit', 'Remove guidewire', 'RESOURCE', 'R_32_1H', 1, 766]
+['The event execution has exceeded the time limit', 'Remove guidewire', 'RESOURCE', 'R_33_1L', 1, 700]
+------------------------------------------------------------------------------------------
+30
+Anesthetize has exceeded the time limit'                         RESOURCE            R_21_1F ['The event execution has exceeded the time limit', 'Anesthetize', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 1, 1208, 2]、R_14_1D ['The event execution has exceeded the time limit', 'Anesthetize', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_46_2B ['The event execution has exceeded the time limit', 'Anesthetize', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 1, 267, 7]
+['The event execution has exceeded the time limit', 'Anesthetize', 'RESOURCE', 'R_21_1F', 1, 1208]
+['The event execution has exceeded the time limit', 'Anesthetize', 'RESOURCE', 'R_14_1D', 1, 879]
+['The event execution has exceeded the time limit', 'Anesthetize', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+31
+Drap puncture area has exceeded the time limit'                  RESOURCE            R_14_1D ['The event execution has exceeded the time limit', 'Drap puncture area', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_32_1H ['The event execution has exceeded the time limit', 'Drap puncture area', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]、R_13_1C ['The event execution has exceeded the time limit', 'Drap puncture area', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 1, 746, 0]
+['The event execution has exceeded the time limit', 'Drap puncture area', 'RESOURCE', 'R_14_1D', 1, 879]
+['The event execution has exceeded the time limit', 'Drap puncture area', 'RESOURCE', 'R_32_1H', 1, 766]
+['The event execution has exceeded the time limit', 'Drap puncture area', 'RESOURCE', 'R_13_1C', 1, 746]
+------------------------------------------------------------------------------------------
+32
+Put sterile gel has exceeded the time limit'                     RESOURCE            R_14_1D ['The event execution has exceeded the time limit', 'Put sterile gel', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_13_1C ['The event execution has exceeded the time limit', 'Put sterile gel', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 1, 746, 0]、R_48_2D ['The event execution has exceeded the time limit', 'Put sterile gel', 'RESOURCE', 'R_48_2D', 1, 368, 0.972222, 1, 368, 9]
+['The event execution has exceeded the time limit', 'Put sterile gel', 'RESOURCE', 'R_14_1D', 1, 879]
+['The event execution has exceeded the time limit', 'Put sterile gel', 'RESOURCE', 'R_13_1C', 1, 746]
+['The event execution has exceeded the time limit', 'Put sterile gel', 'RESOURCE', 'R_48_2D', 1, 368]
+------------------------------------------------------------------------------------------
+33
+Check flow and reflow has exceeded the time limit'               RESOURCE            R_47_2C ['The event execution has exceeded the time limit', 'Check flow and reflow', 'RESOURCE', 'R_47_2C', 1, 975, 0.961538, 1, 975, 8]、R_14_1D ['The event execution has exceeded the time limit', 'Check flow and reflow', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]
+['The event execution has exceeded the time limit', 'Check flow and reflow', 'RESOURCE', 'R_47_2C', 1, 975]
+['The event execution has exceeded the time limit', 'Check flow and reflow', 'RESOURCE', 'R_14_1D', 1, 879]
+------------------------------------------------------------------------------------------
+34
+Check wire in long axis has exceeded the time limit'             RESOURCE            R_31_1G ['The event execution has exceeded the time limit', 'Check wire in long axis', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]、R_46_2B ['The event execution has exceeded the time limit', 'Check wire in long axis', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 1, 267, 7]
+['The event execution has exceeded the time limit', 'Check wire in long axis', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The event execution has exceeded the time limit', 'Check wire in long axis', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+35
+Compression identification has exceeded the time limit'          RESOURCE            R_21_1F ['The event execution has exceeded the time limit', 'Compression identification', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 1, 1208, 2]、R_14_1D ['The event execution has exceeded the time limit', 'Compression identification', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]
+['The event execution has exceeded the time limit', 'Compression identification', 'RESOURCE', 'R_21_1F', 1, 1208]
+['The event execution has exceeded the time limit', 'Compression identification', 'RESOURCE', 'R_14_1D', 1, 879]
+------------------------------------------------------------------------------------------
+36
+Remove syringe has exceeded the time limit'                      RESOURCE            R_14_1D ['The event execution has exceeded the time limit', 'Remove syringe', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_32_1H ['The event execution has exceeded the time limit', 'Remove syringe', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]
+['The event execution has exceeded the time limit', 'Remove syringe', 'RESOURCE', 'R_14_1D', 1, 879]
+['The event execution has exceeded the time limit', 'Remove syringe', 'RESOURCE', 'R_32_1H', 1, 766]
+------------------------------------------------------------------------------------------
+37
+Get in sterile clothes has exceeded the time limit'              RESOURCE            R_31_1G ['The event execution has exceeded the time limit', 'Get in sterile clothes', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]、R_33_1L ['The event execution has exceeded the time limit', 'Get in sterile clothes', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]
+['The event execution has exceeded the time limit', 'Get in sterile clothes', 'RESOURCE', 'R_31_1G', 1, 1231]
+['The event execution has exceeded the time limit', 'Get in sterile clothes', 'RESOURCE', 'R_33_1L', 1, 700]
+------------------------------------------------------------------------------------------
+38
+Position probe has exceeded the time limit'                      RESOURCE            R_46_2B ['The event execution has exceeded the time limit', 'Position probe', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 1, 267, 7]
+['The event execution has exceeded the time limit', 'Position probe', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+39
+Gel in probe has exceeded the time limit'                        RESOURCE            R_31_1G ['The event execution has exceeded the time limit', 'Gel in probe', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]
+['The event execution has exceeded the time limit', 'Gel in probe', 'RESOURCE', 'R_31_1G', 1, 1231]
+{'Ultrasound configuration reworked': 6, 'Prepare implements reworked': 7, 'Position probe reworked': 3, 'Anatomic identification reworked': 1, 'Check wire in short axis reworked': 2, 'Put sterile gel reworked': 0, 'Blood return reworked': 1, 'Guidewire install reworked': 0, 'Compression identification reworked': 0, 'Puncture reworked': 0, 'Check wire in long axis reworked': 1, 'Anesthetize reworked': 0, 'Drop probe reworked': 0, 'Advance catheter reworked': 0}
+------------------------------------------------------------------------------------------
+40
+Prepare implements reworked                    RESOURCE            R_31_1G ['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 5, 1231, 3]、R_21_1F ['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 3, 1208, 2]、R_14_1D ['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 2, 879, 1]、R_45_2A ['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 1, 803, 6]、R_32_1H ['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 2, 766, 4]、R_33_1L ['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 4, 700, 5]、R_48_2D ['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_48_2D', 1, 368, 0.972222, 1, 368, 9]、R_46_2B ['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 1, 267, 7]
+['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_31_1G', 1, 1231]
+['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_21_1F', 1, 1208]
+['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_14_1D', 1, 879]
+['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_45_2A', 1, 803]
+['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_32_1H', 1, 766]
+['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_33_1L', 1, 700]
+['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_48_2D', 1, 368]
+['Activity reworked', 'Prepare implements', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+41
+Ultrasound configuration reworked              RESOURCE            R_31_1G ['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]、R_21_1F ['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 1, 1208, 2]、R_14_1D ['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_32_1H ['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]、R_13_1C ['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 2, 746, 0]、R_48_2D ['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_48_2D', 1, 368, 0.972222, 1, 368, 9]、R_46_2B ['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_46_2B', 1, 267, 0.9666669999999999, 1, 267, 7]
+['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_31_1G', 1, 1231]
+['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_21_1F', 1, 1208]
+['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_14_1D', 1, 879]
+['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_32_1H', 1, 766]
+['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_13_1C', 1, 746]
+['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_48_2D', 1, 368]
+['Activity reworked', 'Ultrasound configuration', 'RESOURCE', 'R_46_2B', 1, 267]
+------------------------------------------------------------------------------------------
+42
+Position probe reworked                        RESOURCE            R_31_1G ['Activity reworked', 'Position probe', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]、R_21_1F ['Activity reworked', 'Position probe', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 3, 1208, 2]、R_14_1D ['Activity reworked', 'Position probe', 'RESOURCE', 'R_14_1D', 1, 879, 0.967742, 1, 879, 1]、R_32_1H ['Activity reworked', 'Position probe', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]
+['Activity reworked', 'Position probe', 'RESOURCE', 'R_31_1G', 1, 1231]
+['Activity reworked', 'Position probe', 'RESOURCE', 'R_21_1F', 1, 1208]
+['Activity reworked', 'Position probe', 'RESOURCE', 'R_14_1D', 1, 879]
+['Activity reworked', 'Position probe', 'RESOURCE', 'R_32_1H', 1, 766]
+------------------------------------------------------------------------------------------
+43
+Check wire in short axis reworked              RESOURCE            R_21_1F ['Activity reworked', 'Check wire in short axis', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 4, 1208, 2]、R_32_1H ['Activity reworked', 'Check wire in short axis', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 2, 766, 4]、R_13_1C ['Activity reworked', 'Check wire in short axis', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 1, 746, 0]
+['Activity reworked', 'Check wire in short axis', 'RESOURCE', 'R_21_1F', 1, 1208]
+['Activity reworked', 'Check wire in short axis', 'RESOURCE', 'R_32_1H', 1, 766]
+['Activity reworked', 'Check wire in short axis', 'RESOURCE', 'R_13_1C', 1, 746]
+------------------------------------------------------------------------------------------
+44
+Anatomic identification reworked               RESOURCE            R_31_1G ['Activity reworked', 'Anatomic identification', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 2, 1231, 3]、R_13_1C ['Activity reworked', 'Anatomic identification', 'RESOURCE', 'R_13_1C', 1, 746, 0.969697, 2, 746, 0]
+['Activity reworked', 'Anatomic identification', 'RESOURCE', 'R_31_1G', 1, 1231]
+['Activity reworked', 'Anatomic identification', 'RESOURCE', 'R_13_1C', 1, 746]
+------------------------------------------------------------------------------------------
+45
+Blood return reworked                          RESOURCE            R_32_1H ['Activity reworked', 'Blood return', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]、R_33_1L ['Activity reworked', 'Blood return', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 2, 700, 5]
+['Activity reworked', 'Blood return', 'RESOURCE', 'R_32_1H', 1, 766]
+['Activity reworked', 'Blood return', 'RESOURCE', 'R_33_1L', 1, 700]
+------------------------------------------------------------------------------------------
+46
+Check wire in long axis reworked               RESOURCE            R_21_1F ['Activity reworked', 'Check wire in long axis', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 5, 1208, 2]、R_45_2A ['Activity reworked', 'Check wire in long axis', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 3, 803, 6]
+['Activity reworked', 'Check wire in long axis', 'RESOURCE', 'R_21_1F', 1, 1208]
+['Activity reworked', 'Check wire in long axis', 'RESOURCE', 'R_45_2A', 1, 803]
+------------------------------------------------------------------------------------------
+47
+Put sterile gel reworked                       RESOURCE            R_33_1L ['Activity reworked', 'Put sterile gel', 'RESOURCE', 'R_33_1L', 1, 700, 0.971429, 1, 700, 5]
+['Activity reworked', 'Put sterile gel', 'RESOURCE', 'R_33_1L', 1, 700]
+------------------------------------------------------------------------------------------
+48
+Guidewire install reworked                     RESOURCE            R_32_1H ['Activity reworked', 'Guidewire install', 'RESOURCE', 'R_32_1H', 1, 766, 0.972222, 1, 766, 4]
+['Activity reworked', 'Guidewire install', 'RESOURCE', 'R_32_1H', 1, 766]
+------------------------------------------------------------------------------------------
+49
+Compression identification reworked            RESOURCE            R_45_2A ['Activity reworked', 'Compression identification', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 1, 803, 6]
+['Activity reworked', 'Compression identification', 'RESOURCE', 'R_45_2A', 1, 803]
+------------------------------------------------------------------------------------------
+50
+Puncture reworked                              RESOURCE            R_45_2A ['Activity reworked', 'Puncture', 'RESOURCE', 'R_45_2A', 1, 803, 0.973684, 3, 803, 6]
+['Activity reworked', 'Puncture', 'RESOURCE', 'R_45_2A', 1, 803]
+------------------------------------------------------------------------------------------
+51
+Anesthetize reworked                           RESOURCE            R_31_1G ['Activity reworked', 'Anesthetize', 'RESOURCE', 'R_31_1G', 1, 1231, 0.978261, 1, 1231, 3]
+['Activity reworked', 'Anesthetize', 'RESOURCE', 'R_31_1G', 1, 1231]
+------------------------------------------------------------------------------------------
+52
+Drop probe reworked                            RESOURCE            R_21_1F ['Activity reworked', 'Drop probe', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 3, 1208, 2]
+['Activity reworked', 'Drop probe', 'RESOURCE', 'R_21_1F', 1, 1208]
+------------------------------------------------------------------------------------------
+53
+Advance catheter reworked                      RESOURCE            R_21_1F ['Activity reworked', 'Advance catheter', 'RESOURCE', 'R_21_1F', 1, 1208, 0.983051, 2, 1208, 2]
+['Activity reworked', 'Advance catheter', 'RESOURCE', 'R_21_1F', 1, 1208]
